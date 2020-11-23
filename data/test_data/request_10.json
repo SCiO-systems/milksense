@@ -1,0 +1,1 @@
+{"request": {"identifier": "silo50", "data": {"variable": "temperature", "unit": "celsius OR fahrenheit or state", "data_type": "real OR boolean", "timestamp": 1602538440, "value": 3.7}}}
