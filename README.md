@@ -1,4 +1,4 @@
-# milksense
+# MilkSense
 
 The MilkSense analytics
 component provides real-time estimation of the microbial load on a given Bulk
